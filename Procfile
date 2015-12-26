@@ -1,1 +1,1 @@
-web: bin/hubot -a slack
+web: bin/hubot -a slack --name acmebot --enable-slash
